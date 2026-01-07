@@ -8,7 +8,8 @@
 2. 第二章 标签语法
     - [2.1 什么是标签](./2-label-syntax/2.1-what-are-labels.md)
 3. 第三章 样式
-    - [3.1 `Preezid` 样式语法](./3-styling/3.1-preezid-style.md)
+    - [3.1 依赖节点](./3-styling/3.1-dependent-node.md)
+    - [3.1 样式方案](3-styling/3.2-style-scheme.md)
 4. 第四章 规模化
     - [4.1 状态管理](./4-scaling-up/4.1-state-manager.md)
     - [4.2 单文件组件](./4-scaling-up/4.2-sfc.md)
